@@ -2,6 +2,9 @@
 
 This repo, is related to my blog while diving deep offloading of async tasks to thread pool threads or OS threads.
 
+# Blog Link
+https://medium.com/@rehmanakram03/libuv-thread-pool-vs-os-threads-in-node-js-179d86421ab7
+
 # Setup Guide
 
 1. Install node
