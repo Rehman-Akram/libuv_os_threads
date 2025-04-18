@@ -2,7 +2,7 @@ const fs = require('fs')
 const path = require('path')
 
 function readFile(fileNo) {
-    fs.readFileSync(`file${1}.csv`, { encoding: 'utf8' }) 
+    fs.readFileSync(`file${fileNo}.csv`, { encoding: 'utf8' }) 
 }
 const startTime = new Date()
 console.log('starting file 1 after', new Date() - startTime)
